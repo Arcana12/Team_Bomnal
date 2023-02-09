@@ -191,7 +191,8 @@ https://youtu.be/wpICG4RO5lo
     <td align="center"><b><br></b></td>
     <td align="center"><b></b></td>
     <td align="center"><b></b></td>
-    <td align="center"><b>검색결과 페이지, 이력서 등록, 관리, 수정 페이지</b></td>
+    <td align="center"><b>검색결과 페이지<br>
+     이력서 등록, 관리, 수정 페이지</b></td>
     <td align="center"><b></b></td>
   </tr>
   <tr>
