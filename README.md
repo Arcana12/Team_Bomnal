@@ -182,16 +182,23 @@ https://youtu.be/wpICG4RO5lo
   </tr>
     <tr>
     <td align="center"><b>팀장<br></b></td>
+    <td align="center"><b>팀원</b></td>
+    <td align="center"><b>팀원</b></td>
+    <td align="center"><b>팀원</b></td>
+    <td align="center"><b>팀원</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b><br></b></td>
     <td align="center"><b></b></td>
     <td align="center"><b></b></td>
-    <td align="center"><b></b></td>
+    <td align="center"><b>검색결과 페이지, 이력서 등록, 관리, 수정 페이지</b></td>
     <td align="center"><b></b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimpizza" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/eunji78" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/100geun10000" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/jaegangkim" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/Arcana12" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/bingomangsoo" target='_blank'>github</a></td>
 
   </tr>
